@@ -38,7 +38,7 @@
 
 #### 🚗 **Bruno Cars** Plataforma Full Stack de alquiler de vehículos con pagos asíncronos (Stripe) y gestión de inventario.
 * **Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Stripe, Clerk.
-* [Ver Repositorio](https://github.com/BrunoGiugno26) | [Demo en vivo](https://github.com/BrunoGiugno26)
+* [Ver Repositorio](https://github.com/BrunoGiugno26/Rents-Cars) | [Demo en vivo](https://rents-cars.vercel.app/)
 
 #### 🛍️ **Giugno Distribuciones E-commerce** (In Progress)
 Digitalización integral del negocio de distribución de productos de cosmetica capilar. Optimización de inventario y ventas online.
