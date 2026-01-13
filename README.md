@@ -41,7 +41,7 @@
 * [Ver Repositorio](https://github.com/BrunoGiugno26) | [Demo en vivo](https://github.com/BrunoGiugno26)
 
 #### 🛍️ **Giugno Distribuciones E-commerce** (In Progress)
-Digitalización integral del negocio familiar de perfumería. Optimización de inventario y ventas online.
+Digitalización integral del negocio de distribución de productos de cosmetica capilar. Optimización de inventario y ventas online.
 * **Stack:** Next.js, Tailwind CSS, PostgreSQL.
 * *En desarrollo para mejorar la eficiencia operativa actual*.
 
