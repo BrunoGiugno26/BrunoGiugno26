@@ -1,10 +1,30 @@
-### ¡Hola! Soy Bruno Giugno 👋
+# ¡Hola! Soy Bruno Giugno 👋 / Hi! I'm Bruno Giugno 👋
 
-Soy un **Full Stack Developer** con una fuerte pasión por el **Frontend**. Mi camino en la programación empezó con la curiosidad de crear algo desde cero, y hoy mi objetivo es construir experiencias de usuario intuitivas y visualmente atractivas.
+<details>
+  <summary>🇪🇸 <b>Leer en Español</b></summary>
+  <br />
+  Soy un <b>Full Stack Developer</b> con una fuerte pasión por el <b>Frontend</b>. Mi camino en la programación empezó con la curiosidad de crear algo desde cero, y hoy mi objetivo es construir experiencias de usuario intuitivas y visualmente atractivas.
+
+  ---
+
+  ### <b>🌱 Estado Actual:</b>
+  Actualmente estoy en búsqueda de mi **primera oportunidad laboral**. Estoy comprometido a seguir aprendiendo y aportando valor en equipos dinámicos.
+</details>
+
+<details>
+  <summary>🇺🇸 <b>Read in English</b></summary>
+  <br />
+  I am a <b>Full Stack Developer</b> with a strong passion for <b>Frontend</b>. My journey in programming began with the curiosity to create something from scratch, and today my goal is to build intuitive and visually appealing user experiences.
+
+  ---
+
+  ### <b>🌱 Current Status:</b>
+  I am currently looking for my **first job opportunity**. I am committed to continuous learning and providing value to dynamic teams.
+</details>
 
 ---
 
-### Mis habilidades:
+### **Mis habilidades / My skills:**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -14,14 +34,10 @@ Soy un **Full Stack Developer** con una fuerte pasión por el **Frontend**. Mi c
 
 ---
 
-### **🌱 Actualmente estoy en búsqueda de mi primera oportunidad laboral.**
-Estoy comprometido a seguir aprendiendo y aportando valor en equipos dinámicos.
-
----
 ### **Mi actividad en GitHub / My GitHub Activity:**
 
 <details>
-  <summary>🇪🇸 <b>Ver en Español</b></summary>
+  <summary>🇪🇸 <b>Ver Estadísticas</b></summary>
   <br />
   <p align="left">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoGiugno26&show_icons=true&theme=dark&locale=es&include_all_commits=true&count_private=true" alt="Estadísticas de Bruno" />
@@ -31,7 +47,7 @@ Estoy comprometido a seguir aprendiendo y aportando valor en equipos dinámicos.
 </details>
 
 <details>
-  <summary>🇺🇸 <b>View in English</b></summary>
+  <summary>🇺🇸 <b>View Stats</b></summary>
   <br />
   <p align="left">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoGiugno26&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Bruno's GitHub Stats" />
@@ -42,6 +58,6 @@ Estoy comprometido a seguir aprendiendo y aportando valor en equipos dinámicos.
 
 ---
 
-### **Puedes contactarme a través de:**
+### **Contacto / Contact:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-giugno-0406ba1a5/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunogiugno@gmail.com)
