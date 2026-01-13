@@ -36,14 +36,33 @@
 
 ### **Proyectos Destacados / Featured Projects:**
 
-#### 🚗 **Bruno Cars** Plataforma Full Stack de alquiler de vehículos con pagos asíncronos (Stripe) y gestión de inventario.
-* **Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Stripe, Clerk.
-* [Ver Repositorio](https://github.com/BrunoGiugno26/Rents-Cars) | [Demo en vivo](https://rents-cars.vercel.app/)
+<details>
+  <summary>🇪🇸 <b>Ver Proyectos (Español)</b></summary>
+  <br />
 
-#### 🛍️ **Giugno Distribuciones E-commerce** (In Progress)
-Digitalización integral del negocio de distribución de productos de cosmetica capilar. Optimización de inventario y ventas online.
-* **Stack:** Next.js, Tailwind CSS, PostgreSQL.
-* *En desarrollo para mejorar la eficiencia operativa actual*.
+  #### 🚗 **Bruno Cars** Plataforma Full Stack de alquiler de vehículos con pagos asíncronos (Stripe Webhooks), gestión de estados de reserva y autenticación segura.
+  * **Stack:** Next.js (App Router), TypeScript, Prisma, PostgreSQL (Neon), Stripe, Clerk.
+  * [Ver Repositorio](https://github.com/BrunoGiugno26/Rents-Cars) | [Demo en vivo](https://rents-cars.vercel.app/)
+
+  #### 🛍️ **Giugno Distribuciones E-commerce** (En Progreso)
+  Digitalización integral del negocio de distribución de productos de cosmética capilar. Enfocado en la optimización de inventario y ventas online masivas.
+  * **Stack:** Next.js, Tailwind CSS, PostgreSQL.
+  * *Solución tecnológica para mejorar la eficiencia operativa del negocio familiar.*
+</details>
+
+<details>
+  <summary>🇺🇸 <b>View Projects (English)</b></summary>
+  <br />
+
+  #### 🚗 **Bruno Cars** Full Stack vehicle rental platform featuring asynchronous payments (Stripe Webhooks), reservation lifecycle management, and secure authentication.
+  * **Stack:** Next.js (App Router), TypeScript, Prisma, PostgreSQL (Neon), Stripe, Clerk.
+  * [View Repository](https://github.com/BrunoGiugno26/Rents-Cars) | [Live Demo](https://rents-cars.vercel.app/)
+
+  #### 🛍️ **Giugno Distribuciones E-commerce** (In Progress)
+  Comprehensive digitalization of a hair cosmetics distribution business. Focused on inventory optimization and high-volume online sales.
+  * **Stack:** Next.js, Tailwind CSS, PostgreSQL.
+  * *A tech solution designed to improve the operational efficiency of the family business.*
+</details>
 
 ---
 
