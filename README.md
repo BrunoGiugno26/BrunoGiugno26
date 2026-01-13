@@ -34,6 +34,19 @@
 
 ---
 
+### **Proyectos Destacados / Featured Projects:**
+
+#### 🚗 **Bruno Cars** Plataforma Full Stack de alquiler de vehículos con pagos asíncronos (Stripe) y gestión de inventario.
+* **Stack:** Next.js, TypeScript, Prisma, PostgreSQL, Stripe, Clerk.
+* [Ver Repositorio](https://github.com/BrunoGiugno26) | [Demo en vivo](https://github.com/BrunoGiugno26)
+
+#### 🛍️ **Giugno Distribuciones E-commerce** (In Progress)
+Digitalización integral del negocio familiar de perfumería. Optimización de inventario y ventas online.
+* **Stack:** Next.js, Tailwind CSS, PostgreSQL.
+* *En desarrollo para mejorar la eficiencia operativa actual*.
+
+---
+
 ### **Mi actividad en GitHub / My GitHub Activity:**
 
 <details>
