@@ -20,7 +20,7 @@ Estoy comprometido a seguir aprendiendo y aportando valor en equipos dinámicos.
 ---
 
 ### **Mi actividad en GitHub:**
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoGiugno26&show_icons=true&theme=dark)
+![Estadísticas de Bruno](https://github-readme-stats.vercel.app/api?username=BrunoGiugno26&show_icons=true&theme=dark&count_private=true)
 
 ---
 
