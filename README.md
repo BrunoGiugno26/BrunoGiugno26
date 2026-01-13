@@ -18,9 +18,27 @@ Soy un **Full Stack Developer** con una fuerte pasión por el **Frontend**. Mi c
 Estoy comprometido a seguir aprendiendo y aportando valor en equipos dinámicos.
 
 ---
-### **Mi actividad en GitHub:**
-![Estadísticas de Bruno](https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoGiugno26&show_icons=true&theme=dark)
-![Lenguajes más usados](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoGiugno26&layout=compact&theme=dark)
+### **Mi actividad en GitHub / My GitHub Activity:**
+
+<details>
+  <summary>🇪🇸 <b>Ver en Español</b></summary>
+  <br />
+  <p align="left">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoGiugno26&show_icons=true&theme=dark&locale=es&include_all_commits=true&count_private=true" alt="Estadísticas de Bruno" />
+    <br />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoGiugno26&layout=compact&theme=dark&locale=es" alt="Lenguajes más usados" />
+  </p>
+</details>
+
+<details>
+  <summary>🇺🇸 <b>View in English</b></summary>
+  <br />
+  <p align="left">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=BrunoGiugno26&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Bruno's GitHub Stats" />
+    <br />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BrunoGiugno26&layout=compact&theme=dark" alt="Most Used Languages" />
+  </p>
+</details>
 
 ---
 
