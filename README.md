@@ -19,7 +19,7 @@
   ---
 
   ### <b>🌱 Current Status:</b>
-  I am currently looking for my **first job opportunity**. I am committed to continuous learning and providing value to dynamic teams.
+I am committed to continuous learning and providing value to dynamic teams.
 </details>
 
 ---
