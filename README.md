@@ -8,7 +8,7 @@
   ---
 
   ### <b>🌱 Estado Actual:</b>
-  Actualmente estoy en búsqueda de mi **primera oportunidad laboral**. Estoy comprometido a seguir aprendiendo y aportando valor en equipos dinámicos.
+  Estoy comprometido a seguir aprendiendo y aportando valor en equipos dinámicos.
 </details>
 
 <details>
